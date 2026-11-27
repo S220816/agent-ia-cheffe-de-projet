@@ -1,0 +1,13 @@
+id,projet,nom,phase,responsable,date_prevue
+J1,Box Fibre,Specifications validees,Conception,Client,2026-12-04
+J2,Box Fibre,Prototypes EVT livres au client,Test ingenierie,Sagemcom,2027-01-08
+J3,Box Fibre,Retour client sur EVT,Test ingenierie,Client,2027-01-22
+J4,Box Fibre,Echantillons DVT livres au client,Test conception,Sagemcom,2027-02-19
+J5,Box Fibre,Validation client DVT,Test conception,Client,2027-03-05
+J6,Box Fibre,Certifications obtenues,Certification,Sagemcom,2027-03-26
+J7,Box Fibre,Pre-serie PVT 500 boxes livree,Test production,Sagemcom,2027-04-09
+J8,Box Fibre,Validation client PVT (bon pour production),Test production,Client,2027-04-23
+J9,Box Fibre,Lancement production de masse,Production,Sagemcom,2027-05-03
+J10,Box Fibre,Premiere livraison 2 000 boxes,Livraison,Sagemcom,2027-05-21
+J11,Box Fibre,Recette client premiere livraison,Livraison,Client,2027-06-04
+J12,Box Fibre,Livraison totale 20 000 boxes,Livraison,Sagemcom,2027-07-02
