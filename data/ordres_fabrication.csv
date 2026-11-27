@@ -1,0 +1,5 @@
+id,produit,quantite,jalon_id,debut_prevu,fin_prevue
+OF1,Echantillons DVT,600,J4,2027-02-03,2027-02-15
+OF2,Pre-serie PVT,500,J7,2027-03-19,2027-04-02
+OF3,Production premiere livraison,2000,J10,2027-05-03,2027-05-17
+OF4,Production totale,18000,J12,2027-05-24,2027-06-28
