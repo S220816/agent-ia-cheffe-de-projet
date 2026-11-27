@@ -1,0 +1,7 @@
+id,fournisseur,composant,quantite,jalon_id,date_prevue,date_reelle
+C1,Alpha Semi,Puce Wi-Fi 7,600,J4,2027-01-29,2027-01-27
+C2,Beta Plast,Boitier plastique,600,J4,2027-02-01,2027-02-01
+C3,Alpha Semi,Puce Wi-Fi 7,600,J7,2027-03-12,2027-03-30
+C4,Gamma PCB,Carte electronique,600,J7,2027-03-15,
+C5,Delta Power,Bloc alimentation,2500,J10,2027-04-19,
+C6,Alpha Semi,Puce Wi-Fi 7,20000,J12,2027-05-17,
